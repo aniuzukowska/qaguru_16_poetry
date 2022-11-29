@@ -9,7 +9,7 @@ packages = [{include = "qaguru_16_poetry"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 pytest = "^7.2.0"
-selene = "^1.0.2"
+selene = "2.0.0b14"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.15.6"
